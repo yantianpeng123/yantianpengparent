@@ -5,9 +5,9 @@ import java.util.*;
 
 public class StringUtils {
     public static void main(String[] args) {
-        String string ="12 23 34 45 56 67 78 89 90";
-        System.out.println(SpiltByParent(string));
     }
+
+
 
     /**
      * 按照逗号拼接，并去掉最后一个逗号 一般又在sql的 in语句里面。
