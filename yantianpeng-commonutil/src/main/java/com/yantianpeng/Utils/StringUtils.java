@@ -5,9 +5,16 @@ import java.util.*;
 
 public class StringUtils {
     public static void main(String[] args) {
+        SubtringString();
     }
 
 
+    public static void SubtringString(){
+        String string="上海上海市青浦区崧泽大道7508号";
+        int countIndex = string.indexOf("区");
+        int lengths = string.length()-countIndex;
+        System.out.println(string.substring(countIndex+1,string.length()));
+    }
 
     /**
      * 按照逗号拼接，并去掉最后一个逗号 一般又在sql的 in语句里面。
