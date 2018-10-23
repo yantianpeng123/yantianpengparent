@@ -8,7 +8,6 @@ public class JdbcDemo {
     private static String Ulr = "jdbc:mysql://127.0.0.1:3306/yantianpeng1";//数据库地址
     private static String username = "root";//账户名
     private static String pwd = "Yantianpeng@123_";//密码
-    private static Statement statement = null;
     private static Connection connection = null;
 
     public static void main(String[] args) {
