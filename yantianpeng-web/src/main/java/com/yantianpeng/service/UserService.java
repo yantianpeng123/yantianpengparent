@@ -1,8 +1,12 @@
 package com.yantianpeng.service;
 
+import com.yantianpeng.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
+
+import java.util.ArrayList;
+import java.util.List;
 
 @Service
 public class UserService {
@@ -35,12 +39,18 @@ public class UserService {
      * @param uuid
      * @return
      */
-    public String getUser(Long uuid){
+    public List<User> getUser(Long uuid){
         String tableName="user"+uuid%3;
         String selectUserByIdSql="select name from "+tableName+ " where id="+uuid;
         System.out.println("sql: "+selectUserByIdSql);
         String name = jdbcTemplate.queryForObject(selectUserByIdSql, String.class);
-        return name;
+       List<User> list= new ArrayList<User>();
+        User use= new User();
+        use.setName(name);
+        list.add(use);
+        return list;
 
     }
 }
+
+

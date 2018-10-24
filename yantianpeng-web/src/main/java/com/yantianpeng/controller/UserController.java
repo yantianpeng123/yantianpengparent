@@ -1,10 +1,14 @@
 package com.yantianpeng.controller;
 
 
+import com.yantianpeng.entity.User;
 import com.yantianpeng.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.List;
 
 //@Controller
 @RestController//返回json数据
@@ -18,6 +22,7 @@ public class UserController {
      * @param pwd
      * @return
      */
+    @CrossOrigin
     @RequestMapping("/regit")
     public String regit(String name,String pwd){
         return userService.regit(name,pwd);
@@ -28,9 +33,11 @@ public class UserController {
      * @param uuid
      * @return
      */
+    @CrossOrigin
     @RequestMapping("/QueryUserById")
-    public String QueryUserById(Long uuid){
-       return userService.getUser(uuid);
+    public List<User> QueryUserById(String uuid){
+        Long uid =Long.parseLong(uuid);
+       return userService.getUser(uid);
     }
 
 }
