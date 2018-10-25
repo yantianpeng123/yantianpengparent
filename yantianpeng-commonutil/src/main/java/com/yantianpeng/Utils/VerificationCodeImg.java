@@ -31,7 +31,7 @@ public class VerificationCodeImg {
             'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};//生成的验证码
 
 
-    private static Map<String ,Object> generateCodeAndPic(){
+    public static Map<String ,Object> generateCodeAndPic(){
         //定义图像Buffer
         BufferedImage bufferedImage = new BufferedImage(width, heigth, BufferedImage.TYPE_INT_RGB);
         Graphics graphics = bufferedImage.getGraphics();

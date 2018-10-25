@@ -1,6 +1,7 @@
 package com.yantianpeng.controller;
 
 
+import com.yantianpeng.entity.BaseResponse;
 import com.yantianpeng.entity.User;
 import com.yantianpeng.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -38,6 +39,17 @@ public class UserController {
     public List<User> QueryUserById(String uuid){
         Long uid =Long.parseLong(uuid);
        return userService.getUser(uid);
+    }
+
+    /**
+     * 验证验证码是否一致
+     * @param randomString
+     * @return
+     */
+    @CrossOrigin
+    @RequestMapping("/ValitonIsTrue")
+    public BaseResponse ValitonIsTrue(String randomString){
+        return userService.ValitonIsTrue(randomString);
     }
 
 }
