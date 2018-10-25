@@ -114,10 +114,6 @@ public class SendEmailUtils {
         receiveEmail03.setReceiveEamilName("蒋海峰");
         receiveEmail03.setReceiveEmailAccount("931009398@qq.com");
 
-        ReceiveEmail receiveEmail04 = new ReceiveEmail();
-        receiveEmail04.setReceiveEamilName("曹永芳");
-        receiveEmail04.setReceiveEmailAccount("1220668579@qq.com");
-
         ReceiveEmail receiveEmail05 = new ReceiveEmail();
         receiveEmail05.setReceiveEamilName("吴彦祖");
         receiveEmail05.setReceiveEmailAccount("942799629@qq.com");
@@ -128,7 +124,6 @@ public class SendEmailUtils {
 
         receiveEmailList.add(receiveEmail06);
         receiveEmailList.add(receiveEmail05);
-        receiveEmailList.add(receiveEmail04);
         receiveEmailList.add(receiveEmail03);
         receiveEmailList.add(receiveEmail01);
         receiveEmailList.add(receiveEmail02);
