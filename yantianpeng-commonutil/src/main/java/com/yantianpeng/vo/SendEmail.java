@@ -30,7 +30,7 @@ public class SendEmail {
      */
     private String sendEmailTheme;
     /**
-     * 邮件主题
+     * 邮件正文
      */
     private String sendEamilText;
     /**
