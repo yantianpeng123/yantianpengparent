@@ -2,8 +2,8 @@ package com.yantianpeng.service;
 
 import com.mysql.jdbc.StringUtils;
 import com.yantianpeng.Utils.VerificationCodeImg;
-import com.yantianpeng.entity.BaseResponse;
 import com.yantianpeng.entity.User;
+import com.yantianpeng.response.BaseResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;
@@ -60,20 +60,20 @@ public class UserService {
         BaseResponse baseResponse =new BaseResponse();
         Map<String, Object> stringObjectMap = VerificationCodeImg.generateCodeAndPic();
         if(StringUtils.isNullOrEmpty(randomString)){
-            baseResponse.setCode(400);
-            baseResponse.setMessage("验证码为空");
+//            baseResponse.setCode(400);
+//            baseResponse.setMessage("验证码为空");
             baseResponse.setSuccess(false);
             return  baseResponse;
         }
         if(randomString.equalsIgnoreCase((String) stringObjectMap.get("code").toString())){
             baseResponse.setSuccess(true);
-            baseResponse.setMessage("验证成功");
-            baseResponse.setCode(200);
+//            baseResponse.setMessage("验证成功");
+//            baseResponse.setCode(200);
             return baseResponse;
         }else{
             baseResponse.setSuccess(false);
-            baseResponse.setMessage("验证码不一致");
-            baseResponse.setCode(500);
+//            baseResponse.setMessage("验证码不一致");
+//            baseResponse.setCode(500);
             return baseResponse;
         }
     }

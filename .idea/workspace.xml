@@ -2,18 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf785956-cf09-491b-852f-4c0fe4952089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/TestShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Traingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Reflect/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Reflect/reflectCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/AllAdressPeoperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/RequestType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/resources/allAdressProperties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Controll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/G7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/resources/AllAdressProperties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/AllAdressUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/HttpService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/HttpSyncService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ParamUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/RouterException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpSyncService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/ParamUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/CommonUntil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/HttpclientSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/kuaiDNiao/KuaidiNiaoOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/GoodsCommiodity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/addService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/senderOrReciver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/BaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/KuaiDiNiao/OrderIdentify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/KuaiDiNiao/TracesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/KuaiDiNiao/TrackEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaiDiNiaoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaiDiNiaoserviceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/BaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/src/main/resources/allAdressProperties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/resources/allAdressProperties.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/allAdressProperties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/target/classes/allAdressProperties.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/common/Deno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/common/KuaiDiNiao/RequestType.class" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/common/KuaiDiNiao/RequestType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/entity/BaseResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/service/UserService.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/yantianpeng-commonutil/target/" />
@@ -29,98 +62,72 @@
     <session id="84087132">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="48" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="9" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.open.time.5" value="10" />
+          <entry key="project.open.time.6" value="8" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="4" />
+          <entry key="class" value="12" />
           <entry key="html" value="5" />
-          <entry key="java" value="76" />
+          <entry key="java" value="203" />
           <entry key="jsp" value="1" />
-          <entry key="properties" value="3" />
+          <entry key="properties" value="12" />
           <entry key="txt" value="2" />
-          <entry key="xml" value="19" />
+          <entry key="xml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="4" />
+          <entry key="CLASS" value="12" />
           <entry key="HTML" value="5" />
-          <entry key="JAVA" value="76" />
+          <entry key="JAVA" value="203" />
           <entry key="JSP" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="3" />
-          <entry key="XML" value="19" />
+          <entry key="Properties" value="12" />
+          <entry key="XML" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="671" />
-          <entry key="java" value="11921" />
-          <entry key="properties" value="194" />
+          <entry key="java" value="23237" />
+          <entry key="properties" value="304" />
           <entry key="txt" value="12" />
-          <entry key="xml" value="441" />
+          <entry key="xml" value="444" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="671" />
-          <entry key="JAVA" value="11921" />
+          <entry key="JAVA" value="23237" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Properties" value="194" />
+          <entry key="Properties" value="304" />
           <entry key="SQL" value="3" />
-          <entry key="XML" value="438" />
+          <entry key="XML" value="441" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/resources/allAdressProperties.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="11" selection-start-line="1" selection-end-line="1" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/RequestType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/AllAdressPeoperties.java">
+        <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="380">
+              <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,6 +142,7 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -142,9 +150,16 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>modifiers</find>
+      <find>单号</find>
+      <find>110</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/yantianpeng-commonutil/src/main/java</dir>
+      <dir>$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng</dir>
+      <dir>$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -153,37 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yantianpeng-web/pom.xml" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/test.txt" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/StringUtils.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Utils/StringUtils.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/jdbcUtils/JdbcDemo.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/Application.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/SqlDemo/MysqlDemo.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/User.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/vo/ReceiveEamil.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/vo/ReceiveEmail.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/vo/SendEmail.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/EamilUtil/SendEmailUtils.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Utils/VerificationCodeImg.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/BaseResponse.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/webapp/html/index.html" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/UserService.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Mysql/Mysql.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Mysql/MysqlDemo.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/entity/User.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/mapper/UserMapping.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/mapping/UserMapping.xml" />
-        <option value="$PROJECT_DIR$/yantianpeng-mybatis/src/main/resources/mybatis.xml" />
-        <option value="$PROJECT_DIR$/yantianpeng-mybatis/src/test/java/com/yantianpeng/MybatisTest/MybatisTest.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/Test.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/entity/Testgenerator.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/StringUtils/StringUtilsDemo.java" />
         <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/TimeUtils/LocalDateController.java" />
         <option value="$PROJECT_DIR$/yantianpeng-web/src/main/webapp/html/firstHtml.html" />
         <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Demo01.java" />
@@ -196,10 +180,45 @@
         <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Reflect/reflectCar.java" />
         <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Reflect/Demo01.java" />
         <option value="$PROJECT_DIR$/yantianpeng-web/src/main/resources/AllAdressProperties.properties" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/resources/allAdressProperties.properties" />
         <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/AllAdressPeoperties.java" />
         <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/Test.java" />
         <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/RequestType.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaidiNiaoService.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/BaseResponse.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/UserService.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/KuaiDiNiao/TracesEntity.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/KuaiDiNiao/OrderIdentify.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/KuaiDiNiao/TrackEntity.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/G7.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7/ParamUtil.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/AllAdressUtil.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/HttpclientSend.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Result.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpService.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/CommonUntil.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaiDiNiaoService.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/sender.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/senderOrReciver.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/GoodsCommiodity.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/addService.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/Order.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaiDiNiaoserviceImpl.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/kuaiDNiao/KuaidiNiaoOrder.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/resources/allAdressProperties.properties" />
+        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Tank.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Demo.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Demo02.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Demo03.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/GetInterfaceConfig.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/pom.xml" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ApiTest.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Controll.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpSyncService.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/HttpService.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/ParamUtil.java" />
       </list>
     </option>
   </component>
@@ -227,7 +246,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="807" />
+    <option name="height" value="804" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -235,8 +254,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,11 +265,6 @@
             <path>
               <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
-              <item name="yantianpeng-commonutil" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
               <item name="yantianpeng-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -292,18 +305,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="yantianpeng" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
-              <item name="yantianpeng-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yantianpeng" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="KuaiDiNiao" type="462c0819:PsiDirectoryNode" />
+              <item name="G7Code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
@@ -317,7 +319,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,7 +332,7 @@
     <property name="SearchEverywhereHistoryKey" value="ResourceLoader&#9;PSI&#9;JAVA://org.springframework.core.io.ResourceLoader&#10;Resource&#9;PSI&#9;JAVA://jdk.internal.loader.Resource&#10;ClassLoad&#9;PSI&#9;JAVA://java.lang.ClassLoader" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542639802983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544520681380" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -340,6 +343,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest" />
       <recent name="$PROJECT_DIR$/yantianpeng-mybatis/src/test/resources" />
     </key>
   </component>
@@ -355,39 +359,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="LocalDateController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.TimeUtils.LocalDateController" />
-      <module name="yantianpengcommonutil" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yantianpeng.TimeUtils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringUtilsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.StringUtils.StringUtilsDemo" />
-      <module name="yantianpengcommonutil" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yantianpeng.StringUtils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.Test" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="ApiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.G7Code.G7CodeTest.ApiTest" />
       <module name="yantianpengweb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yantianpeng.*" />
+          <option name="PATTERN" value="com.yantianpeng.G7Code.G7CodeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Controll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.Chapter02.Controll" />
+      <module name="yantianpengcommonutil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yantianpeng.Chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.Chapter02.Demo03" />
+      <module name="yantianpengcommonutil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yantianpeng.Chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpclientSend" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.common.KuaiDiNiao.HttpclientSend" />
+      <module name="yantianpengweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yantianpeng.common.KuaiDiNiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParamUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.G7Code.ParamUtil" />
+      <module name="yantianpengweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yantianpeng.G7Code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,11 +426,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.Test" />
-      <module name="yantianpengmybatis" />
+      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.G7Code.Test" />
+      <module name="yantianpengweb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yantianpeng.*" />
+          <option name="PATTERN" value="com.yantianpeng.G7Code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,33 +438,88 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.Chapter01.TestShape" />
-      <module name="yantianpengcommonutil" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yantianpeng.Chapter01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_yantianpengparent" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51270" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="yantianpengweb:war exploded" />
+        </option>
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringUtilsDemo" />
+      <item itemvalue="Application.HttpclientSend" />
+      <item itemvalue="Application.ParamUtil" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.LocalDateController" />
-      <item itemvalue="Application.TestShape" />
-      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Demo03" />
+      <item itemvalue="Application.ApiTest" />
+      <item itemvalue="Application.Controll" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.TestShape" />
-        <item itemvalue="Application.LocalDateController" />
-        <item itemvalue="Application.StringUtilsDemo" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ApiTest" />
+        <item itemvalue="Application.Controll" />
+        <item itemvalue="Application.ParamUtil" />
+        <item itemvalue="Application.Demo03" />
       </list>
     </recent_temporary>
   </component>
@@ -477,18 +562,36 @@
       <workItem from="1542532924187" duration="6197000" />
       <workItem from="1542630527164" duration="3856000" />
       <workItem from="1542683669513" duration="963000" />
-      <workItem from="1542700078439" duration="1376000" />
+      <workItem from="1542700078439" duration="4085000" />
+      <workItem from="1542850065950" duration="13124000" />
+      <workItem from="1542889200887" duration="549000" />
+      <workItem from="1543130191272" duration="104000" />
+      <workItem from="1543303214624" duration="156000" />
+      <workItem from="1543303462052" duration="6385000" />
+      <workItem from="1543325184869" duration="5041000" />
+      <workItem from="1543367330468" duration="3712000" />
+      <workItem from="1543478433042" duration="6071000" />
+      <workItem from="1543539705593" duration="428000" />
+      <workItem from="1543815746516" duration="4000" />
+      <workItem from="1543843653029" duration="16000" />
+      <workItem from="1543844647402" duration="797000" />
+      <workItem from="1544019994798" duration="612000" />
+      <workItem from="1544061951241" duration="531000" />
+      <workItem from="1544073323288" duration="9363000" />
+      <workItem from="1544167240567" duration="10599000" />
+      <workItem from="1544434213883" duration="3639000" />
+      <workItem from="1544511557229" duration="3460000" />
+      <workItem from="1544520267354" duration="410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69468000" />
+    <option name="totallyTimeSpent" value="137178000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="804" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37124464" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30758226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -496,11 +599,10 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" visible="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3300562" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -511,6 +613,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32867134" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32867134" />
+      <window_info anchor="bottom" id="Docker" order="14" weight="0.32867134" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -533,12 +636,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Utils/StringUtils.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Utils/StringUtils.java</url>
           <line>25</line>
@@ -593,47 +690,177 @@
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/kuaiDNiao/KuaidiNiaoOrder.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaiDiNiaoserviceImpl.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/HttpclientSend.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpSyncService.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpSyncService.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaiDiNiaoserviceImpl.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpService.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/ParamUtil.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/ParamUtil.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/ParamUtil.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpService.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpSyncService.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpSyncService.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ApiTest.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ApiTest.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Controll.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Controll.java</url>
+          <line>135</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ApiTest.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/HttpService.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/HttpSyncService.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/EamilUtil/SendEmailUtils.java">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7/ParamUtil.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="27" />
+        <state relative-caret-position="134">
+          <caret line="1243" column="23" selection-start-line="1243" selection-start-column="23" selection-end-line="1243" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Utils/VerificationCodeImg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2529#2544#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/resources/AllAdressProperties.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Utils/StringUtils.java">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/HttpclientSend.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="510">
+          <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/UserService.java">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/CommonUntil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="67" column="88" selection-start-line="67" selection-start-column="88" selection-end-line="67" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1020">
+          <caret line="74" column="20" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/net/URLEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2890">
+          <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -644,312 +871,310 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/BaseResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="168">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/KuaiDiNiao/OrderIdentify.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="43" />
+        <state relative-caret-position="185">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/GoodsCommiodity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="355">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/BaseResponse.java">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/kuaiDNiao/KuaidiNiaoOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/SqlDemo/MysqlDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Mysql/MysqlDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/jdbcUtils/JdbcDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/webapp/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/mapper/UserMapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="656" selection-start-line="656" selection-end-line="656" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/io/UnixFileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="277" selection-start-line="277" selection-end-line="277" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-mybatis/src/test/resources/mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-mybatis/src/test/java/com/yantianpeng/MybatisTest/MybatisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-end-line="24" />
+        <state relative-caret-position="380">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-mybatis/pom.xml">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaiDiNiaoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="825">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/loader/URLClassPath.java">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaiDiNiaoserviceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="252" selection-start-line="252" selection-end-line="252" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/vo/ReceiveEmail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/entity/Testgenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-mybatis/src/main/resources/mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/webapp/html/firstHtml.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/StringUtils/StringUtilsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/TimeUtils/LocalDateController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/time/LocalDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Demo01.java" />
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/TestShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Line.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Traingle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-mybatis/src/main/java/com/yantianpeng/mapping/UserMapping.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="107" selection-start-line="1" selection-end-line="1" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/reflect/Executable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="113" column="52" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.10.RELEASE/spring-core-5.0.10.RELEASE.jar!/org/springframework/core/io/ResourceLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Reflect/reflectCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Reflect/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20610">
-          <caret line="1456" column="45" selection-start-line="1456" selection-start-column="32" selection-end-line="1456" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/reflect/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4380">
-          <caret line="352" column="21" selection-start-line="352" selection-start-column="21" selection-end-line="352" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/loader/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="50" column="57" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/Deno.java" />
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/resources/allAdressProperties.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="11" selection-start-line="1" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/RequestType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        <state relative-caret-position="1815">
+          <caret line="121" column="39" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/AllAdressPeoperties.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Traingle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/TestShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/addService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Utils/VerificationCodeImg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-415">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/RequestType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/entity/kuaiDiaNiao/senderOrReciver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter01/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Tank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="375" selection-start-line="375" selection-end-line="375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/jdk.net/jdk/net/ExtendedSocketOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/GetInterfaceConfig.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar!/com/google/gson/Gson.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/RouterException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ParamUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter02/Controll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/G7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/AllAdressUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/resources/allAdressProperties.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/HttpSyncService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpSyncService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/ParamUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="114" column="64" selection-start-line="114" selection-start-column="64" selection-end-line="114" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/HttpService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

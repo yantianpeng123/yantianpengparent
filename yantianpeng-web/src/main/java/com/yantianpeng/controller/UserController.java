@@ -1,7 +1,6 @@
 package com.yantianpeng.controller;
 
 
-import com.yantianpeng.entity.BaseResponse;
 import com.yantianpeng.entity.User;
 import com.yantianpeng.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -46,10 +45,10 @@ public class UserController {
      * @param randomString
      * @return
      */
-    @CrossOrigin
-    @RequestMapping("/ValitonIsTrue")
-    public BaseResponse ValitonIsTrue(String randomString){
-        return userService.ValitonIsTrue(randomString);
-    }
+//    @CrossOrigin
+//    @RequestMapping("/ValitonIsTrue")
+//    public BaseResponse ValitonIsTrue(String randomString){
+//        return userService.ValitonIsTrue(randomString);
+//    }
 
 }
