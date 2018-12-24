@@ -16,7 +16,7 @@ public class ApiTest {
     private static final String  APP_SECRET = "2e5d74cf8403b7f61966fab2f7b0abdd";
 
     // 接口调用地址
-    private static final String ROUTERURL="http://test.api.g7s.chinawayltd.com/interface/index.php";
+    private static final String ROUTERURL="http://demo.api.g7s.chinawayltd.com/interface/index.php";
 
     /** 调用方法 */
     private static final String DEFINEDMETHOD = "map.api.areaMatch";
@@ -28,7 +28,7 @@ public class ApiTest {
 
     public  static void apiTest() {
         Map<String,String> jsonparams =  new HashMap<String,String>();
-        String adress ="上海上海市青浦区菘泽大道7508号7508";
+        String adress ="上海上海市青浦区菘泽大道7508号7";
         String uuid = UUID.randomUUID().toString().replaceAll("-", "");
         //添加请求参数
         jsonparams.put("adress",adress);

@@ -22,11 +22,11 @@ public class ParamUtil {
 //########################### 测试类begin##############################################################
     public static void main(String[] args) {
        Map<String,Object> map = new HashMap<>();
-       String app_key = "apitest";
-       String app_secret = "ab179020b82d2fdcd4cea176796f7156";
-       String  method = "ips2.api.currentStatus";
-       String    timestamp = "2012-09-19 19:12:05";
-       String data = "{\"carnum\":\"京A09999\"}";
+       String app_key = "qykd_adminTest";
+       String app_secret = "2e5d74cf8403b7f61966fab2f7b0abdd";
+       String  method = "imap.api.areaMatch";
+       String    timestamp = "2018-12-21 11:10:05";
+       String data = "{\"data\":{\"adress\":\"上海上海市青浦区7508号\"}}";
        map.put("app_key",app_key);
        map.put("method",method);
        map.put("timestamp",timestamp);
@@ -65,7 +65,6 @@ public class ParamUtil {
         String [] strings = new String[i];
         System.arraycopy(ps,0,strings,0,i);
         Arrays.sort(strings);
-       // System.out.println(strings.toString());
         //secret 同时拼接在字符串的头部和尾部
         StringBuilder stringBuilder = new StringBuilder(secret);
         for (int j = 0; j <strings.length ; j++) {

@@ -1,7 +1,11 @@
 package com.yantianpeng.G7Code.G7CodeTest;
 
+import com.yantianpeng.G7Code.ResultData;
+import lombok.Data;
+
 import java.util.Map;
 
+@Data
 public class Result {
 	private int code;
 	private String message;
@@ -19,10 +23,7 @@ public class Result {
 		this.code = code;
 		this.message = msg;
 	}
-	public Result(Object data) {
-		this();
-		setData(data);
-	}	
+
 	public Object getData() {
 		return data;
 	}
@@ -30,9 +31,6 @@ public class Result {
 	public String toString() {
 		return "{\"code\":" + code + ", \"message\":" + message + ", \"params\":"
 				+ params + ", \"data\":" + data + "}";
-	}
-	public void setData(Object data) {
-		this.data = data;
 	}
 	public int getCode() {
 		return code;

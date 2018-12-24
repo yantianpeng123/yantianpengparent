@@ -6,7 +6,6 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.Map;
@@ -36,7 +35,7 @@ public class HttpSyncService {
 
 
     public static String sendPost(String url ,Map<String,Object> params){
-        ParamUtil.sign(params,new AllAdressUtil().getProperties("G7_interfaceurl"));
+       // ParamUtil.sign(params,new AllAdressUtil().getProperties("G7_interfaceurl"));
         OutputStreamWriter out = null;
         BufferedReader in = null;
         StringBuilder result = new StringBuilder();
