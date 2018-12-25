@@ -32,7 +32,7 @@ public class Test {
        // String adress ="广东省佛山市禅城区大沙工业区大道四路2号美嘉装饰材料中心F馆二层8号";
        // String adress="上海上海市青浦区崧泽大道7508号";
         //String adress ="重庆市.重庆市.九龙坡区. 客服 重庆市九龙坡区石桥铺渝高C座7-2（办事处许冬梅）";
-        String adress ="广东省深圳市龙岗区布吉天虹";
+        String adress ="上海市杨浦区邯郸路660号宝大祥青少年购物中心1楼安奈儿专柜";
         String uuid = UUID.randomUUID().toString().replaceAll("-", "");
         jsonMap.put("address",adress);
         jsonMap.put("uuid",uuid);

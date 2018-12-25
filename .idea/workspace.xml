@@ -2,29 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf785956-cf09-491b-852f-4c0fe4952089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/ArrayNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/Mugs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/staticClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/staticClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/staticClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/encodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/LzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/ResultData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/errorDeatil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/fencesDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/resultDetail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/ApiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpSyncService.java" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/HttpSyncService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/ParamUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/ParamUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/SpicinessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/SpicinessTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yantianpeng-commonutil/target/classes/com/yantianpeng/Chapter05/ArrayNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-commonutil/target/classes/com/yantianpeng/Chapter05/ArrayNew.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/G7CodeTest/ApiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/G7CodeTest/ApiTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/G7CodeTest/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/G7CodeTest/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/HttpSyncService.class" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/HttpSyncService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/ParamUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/ParamUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/yantianpeng-web/target/classes/com/yantianpeng/G7Code/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,7 +22,7 @@
     <session id="84087132">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="58" />
+          <entry key="project.closed" value="59" />
           <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="10" />
           <entry key="project.open.time.10" value="1" />
@@ -50,18 +31,18 @@
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="14" />
-          <entry key="project.open.time.6" value="12" />
+          <entry key="project.open.time.6" value="13" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="61" />
+          <entry key="project.opened" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="12" />
           <entry key="html" value="5" />
-          <entry key="java" value="246" />
+          <entry key="java" value="251" />
           <entry key="jsp" value="1" />
           <entry key="properties" value="13" />
           <entry key="txt" value="2" />
@@ -72,7 +53,7 @@
         <counts>
           <entry key="CLASS" value="12" />
           <entry key="HTML" value="5" />
-          <entry key="JAVA" value="246" />
+          <entry key="JAVA" value="251" />
           <entry key="JSP" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="13" />
@@ -82,7 +63,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="671" />
-          <entry key="java" value="27998" />
+          <entry key="java" value="28520" />
           <entry key="properties" value="304" />
           <entry key="txt" value="12" />
           <entry key="xml" value="444" />
@@ -91,7 +72,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="671" />
-          <entry key="JAVA" value="27998" />
+          <entry key="JAVA" value="28520" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="Properties" value="304" />
           <entry key="SQL" value="3" />
@@ -120,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="322">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,14 +113,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/resultDetail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="49" column="31" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/ArrayNew.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+            <state relative-caret-position="495">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/Spiciness.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/SpicinessTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -177,8 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/KuaiDiNiao/RequestType.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaidiNiaoService.java" />
         <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/response/BaseResponse.java" />
         <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/UserService.java" />
         <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/controller/UserController.java" />
@@ -226,8 +232,10 @@
         <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/Mugs.java" />
         <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/staticClass2.java" />
         <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/Array1.java" />
-        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java" />
         <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/ArrayNew.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/Spiciness.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/SpicinessTest.java" />
+        <option value="$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java" />
       </list>
     </option>
   </component>
@@ -278,50 +286,55 @@
             <path>
               <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
-              <item name="yantianpeng-commonutil" type="462c0819:PsiDirectoryNode" />
+              <item name="yantianpeng-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
+              <item name="yantianpeng-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
-              <item name="yantianpeng-commonutil" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
-              <item name="yantianpeng-commonutil" type="462c0819:PsiDirectoryNode" />
+              <item name="yantianpeng-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
-              <item name="yantianpeng-commonutil" type="462c0819:PsiDirectoryNode" />
+              <item name="yantianpeng-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yantianpeng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
-              <item name="yantianpeng-commonutil" type="462c0819:PsiDirectoryNode" />
+              <item name="yantianpeng-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="yantianpeng" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yantianpengparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yantianpengparent" type="462c0819:PsiDirectoryNode" />
+              <item name="yantianpeng-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yantianpeng" type="462c0819:PsiDirectoryNode" />
+              <item name="G7Code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,7 +346,7 @@
     <property name="SearchEverywhereHistoryKey" value="ResourceLoader&#9;PSI&#9;JAVA://org.springframework.core.io.ResourceLoader&#10;Resource&#9;PSI&#9;JAVA://jdk.internal.loader.Resource&#10;ClassLoad&#9;PSI&#9;JAVA://java.lang.ClassLoader" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545662844923" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545728730794" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -360,7 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayNew">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yantianpeng.Chapter05.Array1" />
       <module name="yantianpengcommonutil" />
@@ -400,12 +413,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.G7Code.Test" />
-      <module name="yantianpengweb" />
+    <configuration name="SpicinessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.Chapter05.SpicinessTest" />
+      <module name="yantianpengcommonutil" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yantianpeng.G7Code.*" />
+          <option name="PATTERN" value="com.yantianpeng.Chapter05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -413,12 +426,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="staticClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.Chapter05.staticClass1" />
-      <module name="yantianpengcommonutil" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yantianpeng.G7Code.Test" />
+      <module name="yantianpengweb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yantianpeng.Chapter05.*" />
+          <option name="PATTERN" value="com.yantianpeng.G7Code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -509,18 +522,18 @@
     <list>
       <item itemvalue="Application.HttpclientSend" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.staticClass1" />
       <item itemvalue="Application.staticClass2" />
       <item itemvalue="Application.Array1" />
       <item itemvalue="Application.ArrayNew" />
+      <item itemvalue="Application.SpicinessTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayNew" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SpicinessTest" />
+        <item itemvalue="Application.ArrayNew" />
         <item itemvalue="Application.Array1" />
         <item itemvalue="Application.staticClass2" />
-        <item itemvalue="Application.staticClass1" />
       </list>
     </recent_temporary>
   </component>
@@ -594,18 +607,18 @@
       <workItem from="1545373456469" duration="163000" />
       <workItem from="1545397981428" duration="1475000" />
       <workItem from="1545570894295" duration="521000" />
-      <workItem from="1545639361147" duration="2616000" />
+      <workItem from="1545639361147" duration="4003000" />
+      <workItem from="1545705163961" duration="3846000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172707000" />
+    <option name="totallyTimeSpent" value="177940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36337626" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3683834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -615,8 +628,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3300562" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.3988764" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3300562" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" visible="true" weight="0.3988764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -854,27 +867,16 @@
           <properties />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/service/kuaiDiNiao/KuaiDiNiaoserviceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="121" column="39" selection-start-line="121" selection-start-column="24" selection-end-line="121" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/common/AllAdressPeoperties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -1023,13 +1025,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/AllAdressUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/G7CodeTest/encodeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1119,13 +1114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/resultDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="49" column="31" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1229,20 +1217,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/ArrayNew.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="495">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/ArrayNew.java">
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/Spiciness.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-commonutil/src/main/java/com/yantianpeng/Chapter05/SpicinessTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/resultDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/AllAdressUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="126" selection-start-line="15" selection-start-column="107" selection-end-line="15" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yantianpeng-web/src/main/java/com/yantianpeng/G7Code/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
