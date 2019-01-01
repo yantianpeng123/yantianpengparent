@@ -12,6 +12,7 @@
         <module>yantianpeng-commonutil</module>
         <module>yantianpeng-web</module>
         <module>yantianpeng-mybatis</module>
+        <module>springbootActiveMq</module>
     </modules>
 
 <parent>
