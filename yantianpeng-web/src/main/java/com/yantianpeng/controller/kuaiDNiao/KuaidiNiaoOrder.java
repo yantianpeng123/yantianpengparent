@@ -5,8 +5,7 @@ import com.yantianpeng.common.KuaiDiNiao.RequestType;
 import com.yantianpeng.response.BaseResponse;
 import com.yantianpeng.service.kuaiDiNiao.KuaiDiNiaoService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -21,7 +20,7 @@ public class KuaidiNiaoOrder {
      * @return
      * @throws Exception
      */
-    @RequestMapping("/NowTrackOrder")
+    @PostMapping( "/NowTrackOrder")
     public BaseResponse NowTrackOrder(HttpServletRequest request)throws Exception{
         String param = new String(request.getParameter("params").getBytes("iso-8859-1"), "utf-8");
         BaseResponse nowTrackOrder = kuaiDiNiaoService.NowTrackOrder(param,
@@ -29,13 +28,25 @@ public class KuaidiNiaoOrder {
         return nowTrackOrder;
     }
 
+    @PostMapping( "/NowTrackOrder1")
+    public BaseResponse NowTrackOrder1(HttpServletRequest request)throws Exception{
+        String param = new String(request.getParameter("params").getBytes("iso-8859-1"), "utf-8");
+        BaseResponse nowTrackOrder = kuaiDiNiaoService.NowTrackOrder(param,
+                new AllAdressPeoperties().getProperties("NowTrackOrderURL"), new RequestType().NowTrackOrder);
+        return nowTrackOrder;
+    }
+
+
+
+
+
     /**
      * 单号识别
      * @param request
      * @return
      * @throws Exception
      */
-    @RequestMapping("/OrderIdentify")
+    @GetMapping("/OrderIdentify")
     public BaseResponse OrderIdentify(HttpServletRequest request) throws Exception{
         String param = new String(request.getParameter("params").getBytes("iso-8859-1"), "utf-8");
         BaseResponse response = kuaiDiNiaoService.OrderIdentify(param,
@@ -43,7 +54,7 @@ public class KuaidiNiaoOrder {
         return response;
     }
 
-    @RequestMapping("/AppointmentTake")
+    @PostMapping("/AppointmentTake")
      public  BaseResponse AppointmentTake(HttpServletRequest request)throws Exception{
          String param = new String(request.getParameter("params").getBytes("iso-8859-1"), "utf-8");
          BaseResponse response = kuaiDiNiaoService.AppointmentTake(param,
@@ -51,16 +62,4 @@ public class KuaidiNiaoOrder {
          return response;
      }
 
-     public void test01(){
-
-     }
-
-     public void test02(){
-
-     }
-
-
-     public void test03(){
-
-     }
 }

@@ -50,8 +50,7 @@ public class KuaiDiNiaoserviceImpl implements KuaiDiNiaoService{
             String sendPost = HttpclientSend.sendPost(JsonData, url, code);
             OrderIdentify orderIdentify = JSON.parseObject(sendPost, OrderIdentify.class);
             List<OrderIdentify> list = new ArrayList<>();
-            System.out.println(orderIdentify.getShippers().isEmpty());
-            if(orderIdentify.getShippers().isEmpty()){
+            if(null==orderIdentify.getShippers()||"".equals(orderIdentify.getShippers())){
                 response.setNotes("单号识别失败");
                 response.setErrorCode("300");
                 response.setSuccess(false);
