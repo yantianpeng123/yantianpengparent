@@ -1,7 +1,9 @@
 package com.yantianpeng.controller.kuaiDNiao;
 
+import com.alibaba.fastjson.JSON;
 import com.yantianpeng.common.AllAdressPeoperties;
 import com.yantianpeng.common.KuaiDiNiao.RequestType;
+import com.yantianpeng.entity.G7.NowTrackOrder;
 import com.yantianpeng.response.BaseResponse;
 import com.yantianpeng.service.kuaiDiNiao.KuaiDiNiaoService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -28,12 +30,22 @@ public class KuaidiNiaoOrder {
         return nowTrackOrder;
     }
 
-    @PostMapping( "/NowTrackOrder1")
+    //@PostMapping( "/NowTrackOrder1")
     public BaseResponse NowTrackOrder1(HttpServletRequest request)throws Exception{
         String param = new String(request.getParameter("params").getBytes("iso-8859-1"), "utf-8");
         BaseResponse nowTrackOrder = kuaiDiNiaoService.NowTrackOrder(param,
                 new AllAdressPeoperties().getProperties("NowTrackOrderURL"), new RequestType().NowTrackOrder);
         return nowTrackOrder;
+    }
+
+
+    @PostMapping( "/NowTrackOrder1")
+    public BaseResponse NowTrackOrder1(NowTrackOrder nowTrackOrder) throws Exception{
+        String param = JSON.toJSONString(nowTrackOrder);
+        BaseResponse response = kuaiDiNiaoService.NowTrackOrder(param,
+                new AllAdressPeoperties().getProperties("NowTrackOrderURL"), new RequestType().NowTrackOrder);
+        return response;
+
     }
 
 

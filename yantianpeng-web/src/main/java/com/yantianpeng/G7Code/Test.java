@@ -30,11 +30,11 @@ public class Test {
         String method ="map.api.areaMatch";
         String appsecret="2e5d74cf8403b7f61966fab2f7b0abdd";
         Map<String,Object> jsonMap = new HashMap<>();
-      //  String adress ="河南省周口市鹿邑县";
+       String adress ="河南省周口市鹿邑县";
        // String adress ="广东省佛山市禅城区大沙工业区大道四路2号美嘉装饰材料中心F馆二层8号";
        // String adress="上海上海市青浦区崧泽大道7508号";
-        //String adress ="重庆市.重庆市.九龙坡区. 客服 重庆市九龙坡区石桥铺渝高C座7-2（办事处许冬梅）";
-        String adress ="上海上海市徐汇区上海上海市徐汇区漕溪北路8号东方商厦4FTommy Hilfiger专柜";
+       // String adress ="重庆市.重庆市.九龙坡区. 客服 重庆市九龙坡区石桥铺渝高C座7-2（办事处许冬梅）";
+       // String adress ="上海上海市徐汇区上海上海市徐汇区漕溪北路8号东方商厦4FTommy Hilfiger专柜";
         String uuid = UUID.randomUUID().toString().replaceAll("-", "");
         jsonMap.put("address",adress);
         jsonMap.put("uuid",uuid);
@@ -51,7 +51,7 @@ public class Test {
         ResultData resultData =  (ResultData) JSONObject.parseObject(string,ResultData.class);
         String string1 = JSON.toJSONString(resultData);
         for (int i = 0; i <100 ; i++) {
-            producerTest(string1);
+          //  producerTest(string1);
         }
 
         System.out.println(resultData.getResult().isEmpty());

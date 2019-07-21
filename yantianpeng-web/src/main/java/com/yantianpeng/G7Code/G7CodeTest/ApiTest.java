@@ -16,7 +16,7 @@ public class ApiTest {
     private static final String  APP_SECRET = "2e5d74cf8403b7f61966fab2f7b0abdd";
 
     // 接口调用地址
-    private static final String ROUTERURL="http://demo.api.g7s.chinawayltd.com/interface/index.php";
+    private static final String ROUTERURL="http://g7s.api.huoyunren.com";
 
     /** 调用方法 */
     private static final String DEFINEDMETHOD = "map.api.areaMatch";
