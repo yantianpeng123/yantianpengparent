@@ -4,9 +4,9 @@ import java.lang.reflect.Array;
 import java.util.*;
 
 public class StringUtils {
-    public static void main(String[] args) {
-        SubtringString();
-    }
+//    public static void main(String[] args) {
+//        SubtringString();
+//    }
 
 
     public static void SubtringString(){

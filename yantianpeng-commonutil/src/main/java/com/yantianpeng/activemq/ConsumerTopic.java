@@ -17,9 +17,9 @@ import javax.jms.*;
 */
 public class ConsumerTopic {
 
-    public static void main(String[] args) throws Exception{
-        consumerTest();
-    }
+//    public static void main(String[] args) throws Exception{
+//        consumerTest();
+//    }
     public static void consumerTest()throws Exception{
         //账号
         String user = ActiveMQConnection.DEFAULT_USER;

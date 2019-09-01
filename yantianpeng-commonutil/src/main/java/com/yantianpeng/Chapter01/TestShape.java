@@ -11,14 +11,14 @@ package com.yantianpeng.Chapter01;
 */
 public class TestShape {
 
-    public static void main(String[] args) {
-        Circle circle= new Circle();
-        doSomething(circle);
-        Traingle traingle =new Traingle();
-        doSomething(traingle);
-        Line line =new Line();
-        doSomething(line);
-    }
+//    public static void main(String[] args) {
+//        Circle circle= new Circle();
+//        doSomething(circle);
+//        Traingle traingle =new Traingle();
+//        doSomething(traingle);
+//        Line line =new Line();
+//        doSomething(line);
+//    }
 
     public static void doSomething(Shape shape){
         shape.draw();

@@ -17,9 +17,9 @@ import javax.jms.*;
 */
 public class ProducerTopic {
 
-    public static void main(String[] args) throws Exception{
-        ProducerTopic();
-    }
+//    public static void main(String[] args) throws Exception{
+//        ProducerTopic();
+//    }
     public static void ProducerTopic()throws Exception{
         String user = ActiveMQConnection.DEFAULT_USER;
         String password = ActiveMQConnection.DEFAULT_PASSWORD;

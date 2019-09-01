@@ -3,11 +3,11 @@ package com.yantianpeng.Chapter02;
 import java.util.Random;
 
 public class Demo {
-    public static void main(String[] args) {
-      //  System.getProperties().list(System.out);
-        //test01();
-        test02();
-    }
+//    public static void main(String[] args) {
+//      //  System.getProperties().list(System.out);
+//        //test01();
+//        test02();
+//    }
 
     public static void test01(){
         Tank t1 = new Tank();

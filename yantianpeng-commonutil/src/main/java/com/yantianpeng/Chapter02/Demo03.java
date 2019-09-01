@@ -11,9 +11,9 @@ package com.yantianpeng.Chapter02;
 */
 public class Demo03 {
 
-    public static void main(String[] args) {
-        test01();
-    }
+//    public static void main(String[] args) {
+//        test01();
+//    }
 
     public static void test01(){
         int i1 = 0x2f;

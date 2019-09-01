@@ -18,9 +18,9 @@ import javax.jms.*;
 */
 public class ConsumerTest {
 
-    public static void main(String[] args) throws Exception{
-        Consumer();
-    }
+//    public static void main(String[] args) throws Exception{
+//        Consumer();
+//    }
     public static void Consumer()throws Exception{
         //账号         ActiveMQConnection.DEFAULT_USER
         String user = ActiveMQConnection.DEFAULT_USER;

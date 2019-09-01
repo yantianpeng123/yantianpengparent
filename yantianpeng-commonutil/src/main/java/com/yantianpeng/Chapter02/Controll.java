@@ -15,20 +15,20 @@ import java.util.Random;
 public class Controll {
 
 
-    public static void main(String[] args) {
-//        while (contaianl()){
-//            System.out.println("Inside while ");
-//        }
-//        System.out.println("循环终止");
-
-        //test01();
-       // test02();
-      //  test03();
-       // test04();
-        int[] fibonaccisequence = Fibonaccisequence(6);
-
-
-    }
+//    public static void main(String[] args) {
+////        while (contaianl()){
+////            System.out.println("Inside while ");
+////        }
+////        System.out.println("循环终止");
+//
+//        //test01();
+//       // test02();
+//      //  test03();
+//       // test04();
+//        int[] fibonaccisequence = Fibonaccisequence(6);
+//
+//
+//    }
     static boolean contaianl(){
         return   Math.random()<0.99;
     }

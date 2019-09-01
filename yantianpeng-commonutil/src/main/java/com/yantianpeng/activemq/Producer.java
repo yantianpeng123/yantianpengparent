@@ -17,9 +17,9 @@ import javax.jms.*;
 */
 public class Producer {
 
-    public static void main(String[] args) throws Exception{
-       // producerTest();
-    }
+//    public static void main(String[] args) throws Exception{
+//       // producerTest();
+//    }
     public static void producerTest(String string)throws Exception{
         //账号
          String user = ActiveMQConnection.DEFAULT_USER;
